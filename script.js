@@ -18,7 +18,7 @@ window.addEventListener("scroll", function () {
 var typed = new Typed(".typed", {
   strings: [
     "Bonjour à tous et à toutes, moi c'est Basseydou.",
-    "Je suis développeur java angular depuis des années. En effet je me suis lancé dans le domaine de l'informatique et du digital suite à mon appétence pour le code et de ma veille technologique<br>Je m'intéresse aux nouvelles technologies en java, javascript et même en intelligence artificielle .<br>Je souhaite donc vous faire part de mes connaissances, mes atouts, mes expériences ainsi que mes projets développés au cours desquels j'ai pu apprendre, me forger et monter en compétences.",
+    "Je suis développeur java angular depuis des années. En effet je me suis lancé dans le domaine de l'informatique et du digital suite à mon appétence pour le code et la veille technologique<br>Je m'intéresse aux nouvelles technologies en java, javascript et même en intelligence artificielle .Je souhaite donc à travers ce portfolio vous montrer mes connaissances, mes atouts, mes expériences.<br>Vous y trouverez aussi  mes projets développés au cours desquels j'ai pu apprendre, me forger et monter en compétences.",
   ],
   typeSpeed: 35,
 });
